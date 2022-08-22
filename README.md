@@ -7,7 +7,6 @@ A collection of steamdeck startup animations, plus a script to randomize your st
 * ps1
 * ps2
 * ps4
-* switch
 * gamecube
 * ps2
 * switchfirst (first boot animation)
